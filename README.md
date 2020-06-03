@@ -3,7 +3,7 @@
 Linear eqation solver, that takes in linear equations from a file, and writes a solution to a file. Supports complex numbers.
 
 ## How to use
-1. Make an input file with the first line being the number of equations and the number of variables separated by whitespace, and the next lines being the equations.
+1. Make an input file with the first line being the number of variables and the number of equations separated by whitespace, and the next lines being the equations.
    Example  
    3 4  
    0 1 2 9  
